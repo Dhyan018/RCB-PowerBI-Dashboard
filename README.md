@@ -32,5 +32,4 @@ This project presents an interactive Power BI dashboard analyzing the performanc
 ## 📂 Files Included
 
 * `rcb_dashboard.pbix` → Power BI file
-* `dashboard.pdf` → Exported dashboard
-* `dashboard.png` → Preview image
+* `Dashboard.png` → Preview image
