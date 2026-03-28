@@ -27,7 +27,7 @@ This project presents an interactive Power BI dashboard analyzing the performanc
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## 📂 Files Included
 
